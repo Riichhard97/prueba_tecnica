@@ -1,0 +1,191 @@
+{
+	"info": {
+		"_postman_id": "5e8bab71-adfa-4654-bda0-0ab07b912d78",
+		"name": "NEXU",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "6000302"
+	},
+	"item": [
+		{
+			"name": "Brand",
+			"item": [
+				{
+					"name": "get all",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{API_URL}}/brands",
+							"host": [
+								"{{API_URL}}"
+							],
+							"path": [
+								"brands"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get all models by brandid",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{API_URL}}/brands/1/models",
+							"host": [
+								"{{API_URL}}"
+							],
+							"path": [
+								"brands",
+								"1",
+								"models"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Add Brand",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\":\"Acura\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{API_URL}}/brands",
+							"host": [
+								"{{API_URL}}"
+							],
+							"path": [
+								"brands"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Add Model",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\":\"ILXs\",\r\n    \"average_price\":0\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{API_URL}}/brands/1/models",
+							"host": [
+								"{{API_URL}}"
+							],
+							"path": [
+								"brands",
+								"1",
+								"models"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Models",
+			"item": [
+				{
+					"name": "GetAllByFilters",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{API_URL}}/models?&lower=400000",
+							"host": [
+								"{{API_URL}}"
+							],
+							"path": [
+								"models"
+							],
+							"query": [
+								{
+									"key": null,
+									"value": null
+								},
+								{
+									"key": "lower",
+									"value": "400000"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "UPDATE MODEL",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"average_price\":100\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{API_URL}}/models/1",
+							"host": [
+								"{{API_URL}}"
+							],
+							"path": [
+								"models",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "API_URL",
+			"value": "",
+			"type": "string"
+		}
+	]
+}

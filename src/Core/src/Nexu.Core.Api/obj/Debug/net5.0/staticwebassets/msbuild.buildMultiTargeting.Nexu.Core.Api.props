@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Nexu.Core.Api.props" />
+</Project>

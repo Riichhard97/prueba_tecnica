@@ -1,0 +1,38 @@
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\bin\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.deps.json
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\bin\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\bin\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.pdb
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\bin\Debug\net5.0\Nexu.Shared.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\bin\Debug\net5.0\Nexu.Shared.Infrastructure.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\bin\Debug\net5.0\Nexu.Shared.Infrastructure.pdb
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\bin\Debug\net5.0\Nexu.Shared.pdb
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\bin\Debug\net5.0\es\Nexu.Shared.resources.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\bin\Debug\net5.0\ja\Nexu.Shared.resources.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.csproj.CopyComplete
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\refint\Nexu.Shared.EntityFrameworkCore.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.pdb
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\ref\Nexu.Shared.EntityFrameworkCore.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\bin\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.deps.json
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\bin\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\bin\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.pdb
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\bin\Debug\net5.0\Nexu.Shared.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\bin\Debug\net5.0\Nexu.Shared.Infrastructure.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\bin\Debug\net5.0\Nexu.Shared.Infrastructure.pdb
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\bin\Debug\net5.0\Nexu.Shared.pdb
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\bin\Debug\net5.0\es\Nexu.Shared.resources.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\bin\Debug\net5.0\ja\Nexu.Shared.resources.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.csproj.CopyComplete
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\refint\Nexu.Shared.EntityFrameworkCore.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\Nexu.Shared.EntityFrameworkCore.pdb
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared.EntityFrameworkCore\obj\Debug\net5.0\ref\Nexu.Shared.EntityFrameworkCore.dll

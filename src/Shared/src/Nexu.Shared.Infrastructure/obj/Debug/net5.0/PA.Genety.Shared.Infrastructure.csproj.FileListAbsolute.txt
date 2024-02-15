@@ -1,0 +1,17 @@
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.Infrastructure\bin\Debug\net5.0\PA.Genety.Shared.Infrastructure.deps.json
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.Infrastructure\bin\Debug\net5.0\PA.Genety.Shared.Infrastructure.dll
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.Infrastructure\bin\Debug\net5.0\PA.Genety.Shared.Infrastructure.pdb
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.Infrastructure\bin\Debug\net5.0\PA.Genety.Shared.dll
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.Infrastructure\bin\Debug\net5.0\PA.Genety.Shared.pdb
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.Infrastructure\bin\Debug\net5.0\es\PA.Genety.Shared.resources.dll
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.Infrastructure\bin\Debug\net5.0\ja\PA.Genety.Shared.resources.dll
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.Infrastructure\obj\Debug\net5.0\PA.Genety.Shared.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.Infrastructure\obj\Debug\net5.0\PA.Genety.Shared.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.Infrastructure\obj\Debug\net5.0\PA.Genety.Shared.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.Infrastructure\obj\Debug\net5.0\PA.Genety.Shared.Infrastructure.AssemblyInfo.cs
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.Infrastructure\obj\Debug\net5.0\PA.Genety.Shared.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.Infrastructure\obj\Debug\net5.0\PA.Genety.Shared.Infrastructure.csproj.CopyComplete
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.Infrastructure\obj\Debug\net5.0\PA.Genety.Shared.Infrastructure.dll
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.Infrastructure\obj\Debug\net5.0\refint\PA.Genety.Shared.Infrastructure.dll
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.Infrastructure\obj\Debug\net5.0\PA.Genety.Shared.Infrastructure.pdb
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.Infrastructure\obj\Debug\net5.0\ref\PA.Genety.Shared.Infrastructure.dll

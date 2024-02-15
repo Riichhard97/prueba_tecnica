@@ -1,0 +1,12 @@
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.SignalR\bin\Debug\net5.0\PA.Genety.Shared.SignalR.deps.json
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.SignalR\bin\Debug\net5.0\PA.Genety.Shared.SignalR.dll
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.SignalR\bin\Debug\net5.0\PA.Genety.Shared.SignalR.pdb
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.SignalR\obj\Debug\net5.0\PA.Genety.Shared.SignalR.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.SignalR\obj\Debug\net5.0\PA.Genety.Shared.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.SignalR\obj\Debug\net5.0\PA.Genety.Shared.SignalR.AssemblyInfoInputs.cache
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.SignalR\obj\Debug\net5.0\PA.Genety.Shared.SignalR.AssemblyInfo.cs
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.SignalR\obj\Debug\net5.0\PA.Genety.Shared.SignalR.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.SignalR\obj\Debug\net5.0\PA.Genety.Shared.SignalR.dll
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.SignalR\obj\Debug\net5.0\refint\PA.Genety.Shared.SignalR.dll
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.SignalR\obj\Debug\net5.0\PA.Genety.Shared.SignalR.pdb
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Shared.SignalR\obj\Debug\net5.0\ref\PA.Genety.Shared.SignalR.dll

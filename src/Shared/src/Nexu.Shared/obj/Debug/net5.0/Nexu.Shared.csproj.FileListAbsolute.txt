@@ -1,0 +1,42 @@
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\bin\Debug\net5.0\Nexu.Shared.deps.json
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\bin\Debug\net5.0\Nexu.Shared.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\bin\Debug\net5.0\Nexu.Shared.pdb
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\bin\Debug\net5.0\es\Nexu.Shared.resources.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\bin\Debug\net5.0\ja\Nexu.Shared.resources.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.Properties.Resources.resources
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.Properties.Resources.es.resources
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.Properties.Resources.ja.resources
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.csproj.GenerateResource.cache
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.AssemblyInfoInputs.cache
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.AssemblyInfo.cs
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\es\Nexu.Shared.resources.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\ja\Nexu.Shared.resources.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\refint\Nexu.Shared.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.pdb
+C:\Users\Gamer\Desktop\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\ref\Nexu.Shared.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\bin\Debug\net5.0\Nexu.Shared.deps.json
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\bin\Debug\net5.0\Nexu.Shared.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\bin\Debug\net5.0\Nexu.Shared.pdb
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\bin\Debug\net5.0\es\Nexu.Shared.resources.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\bin\Debug\net5.0\ja\Nexu.Shared.resources.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.Properties.Resources.resources
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.Properties.Resources.es.resources
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.Properties.Resources.ja.resources
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.csproj.GenerateResource.cache
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.AssemblyInfoInputs.cache
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.AssemblyInfo.cs
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\es\Nexu.Shared.resources.cs
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\es\Nexu.Shared.resources.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\ja\Nexu.Shared.resources.cs
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\ja\Nexu.Shared.resources.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\refint\Nexu.Shared.dll
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\Nexu.Shared.pdb
+C:\Users\Gamer\Desktop\prueba_tecnica\esta si es la preuba\prueba_tecnica\src\Shared\src\Nexu.Shared\obj\Debug\net5.0\ref\Nexu.Shared.dll

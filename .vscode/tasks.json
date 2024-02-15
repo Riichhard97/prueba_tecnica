@@ -1,0 +1,14 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "Genety-Services-Up",
+            "command": "$env:DOCKER_BUILDKIT=0;docker-compose -f docker-compose.yml -f docker-compose.override.yml up --build",
+            "presentation": {
+              "reveal": "always",
+              "panel": "new"
+            }
+          }
+    ]
+}

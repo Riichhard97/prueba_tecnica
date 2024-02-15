@@ -1,0 +1,56 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Genety-Service Auth Attach",
+            "type": "coreclr",
+            "request": "attach",
+            "processId": "${command:pickRemoteProcess}",
+            "pipeTransport": {
+                "pipeProgram": "docker",
+                "pipeArgs": ["exec", "-i", "genety_back-genety.auth-1"], //container name
+                "debuggerPath": "/vsdbg/vsdbg",
+                "pipeCwd": "${workspaceRoot}",
+                "quoteArgs": false
+            },
+            "justMyCode":false,
+            "sourceFileMap": {
+                "/src": "C:/Genety/genety_back/src"  //Change for project location
+            }            
+        },
+        {
+            "name": "Genety-Service Core Attach",
+            "type": "coreclr",
+            "request": "attach",
+            "processId": "${command:pickRemoteProcess}",
+            "pipeTransport": {
+                "pipeProgram": "docker",
+                "pipeArgs": ["exec", "-i", "genety_back-genety.core-1"], //container name
+                "debuggerPath": "/vsdbg/vsdbg",
+                "pipeCwd": "${workspaceRoot}",
+                "quoteArgs": false
+            },
+            "justMyCode":false,
+            "sourceFileMap": {
+                "/src": "C:/Genety/genety_back/src"  //Change for project location
+            }            
+        },
+        {
+            "name": "Genety-Service History Attach",
+            "type": "coreclr",
+            "request": "attach",
+            "processId": "${command:pickRemoteProcess}",
+            "pipeTransport": {
+                "pipeProgram": "docker",
+                "pipeArgs": ["exec", "-i", "genety_back-genety.history-1"], //container name
+                "debuggerPath": "/vsdbg/vsdbg",
+                "pipeCwd": "${workspaceRoot}",
+                "quoteArgs": false
+            },
+            "justMyCode":false,
+            "sourceFileMap": {
+                "/src": "C:/Genety/genety_back/src"  //Change for project location
+            }            
+        }         
+    ]
+}

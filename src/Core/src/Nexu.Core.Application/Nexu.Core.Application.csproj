@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Features\ObjectValue\**" />
+    <Compile Remove="Features\OtherObjectType\**" />
+    <Compile Remove="Users\**" />
+    <EmbeddedResource Remove="Features\ObjectValue\**" />
+    <EmbeddedResource Remove="Features\OtherObjectType\**" />
+    <EmbeddedResource Remove="Users\**" />
+    <EntityDeploy Remove="Features\ObjectValue\**" />
+    <None Remove="Features\ObjectValue\**" />
+    <None Remove="Features\OtherObjectType\**" />
+    <None Remove="Users\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.19.0" />
+    <PackageReference Include="FluentValidation" Version="11.2.2" />
+    <PackageReference Include="GoogleAuthenticator" Version="3.0.0" />
+    <PackageReference Include="HarfBuzzSharp.NativeAssets.Linux" Version="2.8.2.3" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.46" />
+    <PackageReference Include="HtmlToOpenXml.dll" Version="2.3.0" />
+    <PackageReference Include="IronSoftware.System.Drawing" Version="2023.2.12" />
+    <PackageReference Include="iTextSharp.LGPLv2.Core" Version="3.3.2" />
+    <PackageReference Include="LinqKit" Version="1.2.3" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="7.0.0" />
+    <PackageReference Include="SkiaSharp.NativeAssets.Linux.NoDependencies" Version="2.88.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Shared\src\Nexu.Shared.Infrastructure\Nexu.Shared.Infrastructure.csproj" />
+    <ProjectReference Include="..\Nexu.Core.Domain\Nexu.Core.Domain.csproj" />
+  </ItemGroup>
+
+  <Target Name="CopyFilesAfterPublish" AfterTargets="AfterPublish">
+    <Copy SourceFiles="$(TargetDir)runtimes/linux-x64/native/libSkiaSharp.so" DestinationFolder="$([System.IO.Path]::GetFullPath('$(PublishDir)'))/bin/" />
+    <Copy SourceFiles="$(TargetDir)runtimes/linux-x64/native/libHarfBuzzSharp.so" DestinationFolder="$([System.IO.Path]::GetFullPath('$(PublishDir)'))/bin/" />
+  </Target>
+
+</Project>

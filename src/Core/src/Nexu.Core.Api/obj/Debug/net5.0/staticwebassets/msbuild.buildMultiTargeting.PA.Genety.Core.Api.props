@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PA.Genety.Core.Api.props" />
+</Project>

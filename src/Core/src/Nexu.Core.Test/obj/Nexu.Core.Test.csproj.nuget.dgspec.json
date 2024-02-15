@@ -1,0 +1,624 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Test\\Nexu.Core.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Application\\Nexu.Core.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Application\\Nexu.Core.Application.csproj",
+        "projectName": "Nexu.Core.Application",
+        "projectPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Application\\Nexu.Core.Application.csproj",
+        "packagesPath": "C:\\Users\\Gamer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Domain\\Nexu.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Domain\\Nexu.Core.Domain.csproj"
+              },
+              "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared.Infrastructure\\Nexu.Shared.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared.Infrastructure\\Nexu.Shared.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.19.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "GoogleAuthenticator": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "HarfBuzzSharp.NativeAssets.Linux": {
+              "target": "Package",
+              "version": "[2.8.2.3, )"
+            },
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.46, )"
+            },
+            "HtmlToOpenXml.dll": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "IronSoftware.System.Drawing": {
+              "target": "Package",
+              "version": "[2023.2.12, )"
+            },
+            "LinqKit": {
+              "target": "Package",
+              "version": "[1.2.3, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "SkiaSharp.NativeAssets.Linux.NoDependencies": {
+              "target": "Package",
+              "version": "[2.88.3, )"
+            },
+            "iTextSharp.LGPLv2.Core": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Domain\\Nexu.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Domain\\Nexu.Core.Domain.csproj",
+        "projectName": "Nexu.Core.Domain",
+        "projectPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Domain\\Nexu.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\Gamer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "GoogleAuthenticator": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Persistence\\Nexu.Core.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Persistence\\Nexu.Core.Persistence.csproj",
+        "projectName": "Nexu.Core.Persistence",
+        "projectPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Persistence\\Nexu.Core.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Gamer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Domain\\Nexu.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Domain\\Nexu.Core.Domain.csproj"
+              },
+              "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared.EntityFrameworkCore\\Nexu.Shared.EntityFrameworkCore.csproj": {
+                "projectPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared.EntityFrameworkCore\\Nexu.Shared.EntityFrameworkCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "GoogleAuthenticator": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "LinqKit": {
+              "target": "Package",
+              "version": "[1.2.3, )"
+            },
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Test\\Nexu.Core.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Test\\Nexu.Core.Test.csproj",
+        "projectName": "Nexu.Core.Test",
+        "projectPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Test\\Nexu.Core.Test.csproj",
+        "packagesPath": "C:\\Users\\Gamer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Application\\Nexu.Core.Application.csproj": {
+                "projectPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Application\\Nexu.Core.Application.csproj"
+              },
+              "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Persistence\\Nexu.Core.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Core\\src\\Nexu.Core.Persistence\\Nexu.Core.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.17.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared.EntityFrameworkCore\\Nexu.Shared.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared.EntityFrameworkCore\\Nexu.Shared.EntityFrameworkCore.csproj",
+        "projectName": "Nexu.Shared.EntityFrameworkCore",
+        "projectPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared.EntityFrameworkCore\\Nexu.Shared.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\Gamer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared.Infrastructure\\Nexu.Shared.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared.Infrastructure\\Nexu.Shared.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "GoogleAuthenticator": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "NewId": {
+              "target": "Package",
+              "version": "[3.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared.Infrastructure\\Nexu.Shared.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared.Infrastructure\\Nexu.Shared.Infrastructure.csproj",
+        "projectName": "Nexu.Shared.Infrastructure",
+        "projectPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared.Infrastructure\\Nexu.Shared.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Gamer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared\\Nexu.Shared.csproj": {
+                "projectPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared\\Nexu.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.10.0, )"
+            },
+            "GoogleAuthenticator": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NodaTime": {
+              "target": "Package",
+              "version": "[3.0.9, )"
+            },
+            "libphonenumber-csharp": {
+              "target": "Package",
+              "version": "[8.12.34, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared\\Nexu.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared\\Nexu.Shared.csproj",
+        "projectName": "Nexu.Shared",
+        "projectPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared\\Nexu.Shared.csproj",
+        "packagesPath": "C:\\Users\\Gamer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "GoogleAuthenticator": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "IronSoftware.System.Drawing": {
+              "target": "Package",
+              "version": "[2023.2.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

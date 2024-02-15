@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared\\Nexu.Shared.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared\\Nexu.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared\\Nexu.Shared.csproj",
+        "projectName": "Nexu.Shared",
+        "projectPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared\\Nexu.Shared.csproj",
+        "packagesPath": "C:\\Users\\Gamer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gamer\\Desktop\\prueba_tecnica\\esta si es la preuba\\prueba_tecnica\\src\\Shared\\src\\Nexu.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "GoogleAuthenticator": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "IronSoftware.System.Drawing": {
+              "target": "Package",
+              "version": "[2023.2.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

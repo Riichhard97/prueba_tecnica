@@ -1,0 +1,17 @@
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Messages\bin\Debug\net5.0\PA.Genety.Messages.deps.json
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Messages\bin\Debug\net5.0\PA.Genety.Messages.dll
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Messages\bin\Debug\net5.0\PA.Genety.Messages.pdb
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Messages\bin\Debug\net5.0\PA.Genety.Shared.dll
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Messages\bin\Debug\net5.0\PA.Genety.Shared.pdb
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Messages\bin\Debug\net5.0\es\PA.Genety.Shared.resources.dll
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Messages\bin\Debug\net5.0\ja\PA.Genety.Shared.resources.dll
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Messages\obj\Debug\net5.0\PA.Genety.Messages.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Messages\obj\Debug\net5.0\PA.Genety.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Messages\obj\Debug\net5.0\PA.Genety.Messages.AssemblyInfoInputs.cache
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Messages\obj\Debug\net5.0\PA.Genety.Messages.AssemblyInfo.cs
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Messages\obj\Debug\net5.0\PA.Genety.Messages.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Messages\obj\Debug\net5.0\PA.Genety.Messages.csproj.CopyComplete
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Messages\obj\Debug\net5.0\PA.Genety.Messages.dll
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Messages\obj\Debug\net5.0\refint\PA.Genety.Messages.dll
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Messages\obj\Debug\net5.0\PA.Genety.Messages.pdb
+C:\Users\Gamer\Desktop\Pinnacle\Genety\genety_back\src\Shared\src\PA.Genety.Messages\obj\Debug\net5.0\ref\PA.Genety.Messages.dll
